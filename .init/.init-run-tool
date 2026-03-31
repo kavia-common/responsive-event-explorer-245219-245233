@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/code-generation/responsive-event-explorer-245219-245233/events_frontend"
+}
